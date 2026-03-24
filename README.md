@@ -26,21 +26,21 @@ This repository contains a collection of Jupyter notebooks and results. Each not
 
 ## 📁 Additional Folders
 
-### **data/**
+### [**data/**](data/)
 Contains raw datasets used across the notebooks.  
 
-### **errors_for_wilcoxon/**
+### [**errors_for_wilcoxon/**](errors_for_wilcoxon/)
 Contains error distributions used for statistical testing.  
 
-### **results/**
+### [**results/**](results/)
 Contains generated outputs from the experiments, pickled models and equations.
 
-### **tables/**
+### [**tables/**](tables/)
 Stores tabular results for LaTeX.
 
 
 ### 📦 Dependencies
-- **requirements.txt**  
+- [**requirements.txt**](requirements.txt)
   Contains all Python dependencies needed to run the notebooks.  
   Install with:
 
