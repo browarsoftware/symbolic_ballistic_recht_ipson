@@ -3,7 +3,7 @@
 # Analytical formulae for two-dimensional ballistic limit curves \\in the range of material thickness based on Recht-Ipson model and symbolic regression
 
 
-This repository contains a collection of Jupyter notebooks and results. Each notebook is self-contained and includes explanations, code, and visualizations. Data can be available on reasonable request.
+This repository contains a collection of Jupyter notebooks and results. Each notebook is self-contained and includes explanations, code, and visualizations. Data can be made available on reasonable request..
 
 ## 📂 Contents
 
@@ -21,6 +21,22 @@ This repository contains a collection of Jupyter notebooks and results. Each not
 - **symbolic_regression_R-I.ipynb**  
   Exploration with symbolic regression constrained by Recht-Ipson model.
 
+
+---
+
+## 📁 Additional Folders
+
+### **data/**
+Contains raw datasets used across the notebooks.  
+
+### **errors_for_wilcoxon/**
+Contains error distributions used for statistical testing.  
+
+### **results/**
+Contains generated outputs from the experiments, pickled models and equations.
+
+### **tables/**
+Stores tabular results for LaTeX.
 
 
 ### 📦 Dependencies
