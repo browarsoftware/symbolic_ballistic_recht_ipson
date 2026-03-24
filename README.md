@@ -1,6 +1,6 @@
 ### Source codes for paper:
 
-# Analytical formulae for two-dimensional ballistic limit curves \\in the range of material thickness based on Recht-Ipson model and symbolic regression
+# Analytical formulae for two-dimensional ballistic limit curves in the range of material thickness based on Recht-Ipson model and symbolic regression
 
 
 This repository contains a collection of Jupyter notebooks and results. Each notebook is self-contained and includes explanations, code, and visualizations.
